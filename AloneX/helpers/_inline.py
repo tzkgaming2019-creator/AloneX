@@ -153,8 +153,8 @@ class Inline:
                 [
                     self.ikb(text=lang["aloneowner"], user_id=config.OWNER_ID),
                     self.ikb(
-                        text=lang["source"],
-                        url="https://github.com/TeamAloneOp/AloneX",
+                        text=lang["premium shop"],
+                        url="https://t.me/HANTHAR_1999",
                     )
                 ]
             ]
