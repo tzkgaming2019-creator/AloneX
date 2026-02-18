@@ -28,7 +28,7 @@ async def auto_leave():
                     chat_id = dialog.chat.id
                     if left >= 20:
                         break
-                    if chat_id in [app.logger, -1001686672798, -1001549206010]:
+                    if chat_id in [app.logger, -1003522647387, -1003714440357]:
                         continue
                     if dialog.chat.type in [
                         enums.ChatType.GROUP,
